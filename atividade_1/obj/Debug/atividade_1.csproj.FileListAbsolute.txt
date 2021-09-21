@@ -1,0 +1,10 @@
+C:\Users\Monster\Desktop\CC\Programação Visual\atividade_1\atividade_1\bin\Debug\atividade_1.exe.config
+C:\Users\Monster\Desktop\CC\Programação Visual\atividade_1\atividade_1\bin\Debug\atividade_1.exe
+C:\Users\Monster\Desktop\CC\Programação Visual\atividade_1\atividade_1\bin\Debug\atividade_1.pdb
+C:\Users\Monster\Desktop\CC\Programação Visual\atividade_1\atividade_1\obj\Debug\atividade_1.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\CC\Programação Visual\atividade_1\atividade_1\obj\Debug\atividade_1.Form1.resources
+C:\Users\Monster\Desktop\CC\Programação Visual\atividade_1\atividade_1\obj\Debug\atividade_1.Properties.Resources.resources
+C:\Users\Monster\Desktop\CC\Programação Visual\atividade_1\atividade_1\obj\Debug\atividade_1.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\CC\Programação Visual\atividade_1\atividade_1\obj\Debug\atividade_1.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\CC\Programação Visual\atividade_1\atividade_1\obj\Debug\atividade_1.exe
+C:\Users\Monster\Desktop\CC\Programação Visual\atividade_1\atividade_1\obj\Debug\atividade_1.pdb
